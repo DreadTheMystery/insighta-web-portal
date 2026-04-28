@@ -1,0 +1,7 @@
+{
+  "buildCommand": "true",
+  "outputDirectory": ".",
+  "env": {
+    "VITE_BACKEND_URL": "@insighta_backend_url"
+  }
+}
