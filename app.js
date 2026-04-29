@@ -4,7 +4,7 @@
 const BACKEND_URL =
   window.location.hostname === "localhost"
     ? "http://localhost:3000"
-    : "https://insighta-stage3-backend.vercel.app";
+    : "https://insighta-backend-wine.vercel.app";
 
 const STATE_KEY = "insighta_oauth_state";
 const CALLBACK_PARAMS = ["code", "state"];
